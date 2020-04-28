@@ -1,0 +1,3 @@
+﻿  BreadthFIrstSearch.cpp
+C:\Users\patri\source\repos\BreadthFIrstSearch\BreadthFIrstSearch.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+  BreadthFIrstSearch.vcxproj -> C:\Users\patri\source\repos\LinkedLists\Debug\BreadthFIrstSearch.exe
